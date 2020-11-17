@@ -4,4 +4,6 @@ __pycache__/
 vibe-env/
 output/
 *.mp4
+*.webm
 results
+test.txt
